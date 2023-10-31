@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^113.0.0",
+    "querystring": "^0.2.1",
+    "selenium-webdriver": "^4.9.0"
+  }
+}
